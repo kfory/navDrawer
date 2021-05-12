@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavDrawer</string>
+
+   <!-- Menu Hamburguesa-->
+    <string name="menu_home">INICIO</string>
+    <string name="menu_fav">FAVORITOS</string>
+    <string name="menu_act">ACTIVIDAD</string>
+    <string name="menu_cerrar">CERRAR SESIÓN</string>
+    <string name="menu_tema">TEMA OSCURO</string>
+    <string name="menu_info">ACERCA DE LA APP</string>
+
+    <!-- Info-->
+    <string name="info_desarrollo">Desarrollado por:</string>
+    <string name="info_int1">Kevin Yused Fory F.</string>
+    <string name="info_int2">Daniel Alexander Lopez Ch.</string>
+    <string name="info_int3">Danny Mauricio Toledo R.</string>
+    <string name="info_version">Versión</string>
+    <string name="info_numVersion">1.0</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="al">
+
+        <attr name="content_background" format="color"/>
+        <attr name="img_tint" format="color"/>
+        <attr name="img_tint_selected" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_color_sub" format="color"/>
+        <attr name="text_color_selected" format="color"/>
+        <attr name="button_Color" format="color"/>
+        <attr name="linear_background" format="color"/>
+
+    </declare-styleable>
+
+</resources>
